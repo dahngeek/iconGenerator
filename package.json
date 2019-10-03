@@ -1,0 +1,15 @@
+{
+  "name": "fruiticongenerator",
+  "version": "1.0.0",
+  "description": "A nodejs code that generates merged images from different backgrounds and icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Xutuc",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "merge-images": "^1.1.0"
+  }
+}
